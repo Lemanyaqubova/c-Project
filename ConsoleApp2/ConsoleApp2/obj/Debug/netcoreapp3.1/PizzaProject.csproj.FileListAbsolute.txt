@@ -1,0 +1,16 @@
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\PizzaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\PizzaProject.AssemblyInfoInputs.cache
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\PizzaProject.AssemblyInfo.cs
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\PizzaProject.exe
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\PizzaProject.deps.json
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\PizzaProject.runtimeconfig.json
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\PizzaProject.runtimeconfig.dev.json
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\PizzaProject.dll
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\PizzaProject.pdb
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\PizzaProject.csproj.CopyComplete
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\PizzaProject.dll
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\PizzaProject.pdb
+C:\Users\Leman\OneDrive\Desktop\C# Project\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\PizzaProject.genruntimeconfig.cache
